@@ -67,4 +67,6 @@ pip install -r requirements.txt
 | **Adaptive Quantization Noise (AQN)** | Injects controlled noise to improve RL exploration and reward optimization.               |
 | **High Scalability**                  | Enables training of 32B parameter models on a single 80GB GPU, avoiding multi-GPU setups. |
 
+## Refertence 
+**QeRL Repository: **https://github.com/NVlabs/QeRL/tree/main
 ---
