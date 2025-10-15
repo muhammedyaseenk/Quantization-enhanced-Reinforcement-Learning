@@ -1,29 +1,4 @@
-Thanks for sharing the `README.md` content! It looks like a solid start for a technical project—especially for something as advanced as **Quantization-enhanced Reinforcement Learning (QeRL)**. Here’s a quick evaluation, and then a cleaned-up, professional version you can optionally use or build from.
 
----
-
-### 🔍 High-Level Feedback:
-
-**What’s Good:**
-
-* ✅ Clear explanation of what QeRL is.
-* ✅ Uses visual illustrations (`.png` assets).
-* ✅ Sections for features, benefits, and installation.
-* ✅ Effective use of markdown formatting (headings, bullet points, code blocks).
-
-**Suggestions for Improvement:**
-
-1. **Polish formatting and consistency** — e.g., avoid inconsistent use of colons in headings, and separate code/comments from descriptions cleanly.
-2. **Clarify some terminology** — e.g., "GRPO" might be better explained unless it's widely known in your field.
-3. **Organize Features into a table or bullet list properly** — right now, the "📚 Additional Resources" section is a bit messy.
-4. **Proofread** — some minor grammar or phrasing tweaks will help professionalize it.
-5. **Assets** — ensure the `assets/` folder and referenced images exist in your repo for those image links to work.
-
----
-
-### ✅ Refactored README (Polished Version)
-
-````markdown
 # Quantization-enhanced Reinforcement Learning (QeRL)
 
 **QeRL** is a Quantization-enhanced RL framework for large language models. It combines **NVFP4 quantization** with **LoRA**, introduces **Adaptive Quantization Noise (AQN)** to boost exploration, accelerates rollouts by **1.5×**, and enables RL training of **32B models** on a **single 80GB GPU**—matching the performance of full fine-tuning on benchmarks like **GSM8K** and **MATH**.
