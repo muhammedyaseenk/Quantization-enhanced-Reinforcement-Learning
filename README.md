@@ -69,6 +69,9 @@ pip install -r requirements.txt
 
 ## 🔗 References
 *QeRL Repository: * https://github.com/NVlabs/QeRL/tree/main
+
 *NVFP4 Quantization :*   https://github.com/NVIDIA/TensorRT-LLM/issues/6835?utm_source=chatgpt.com
+
 *LoRA Integration:* https://github.com/yxli2123/LoftQ?utm_source=chatgpt.com
+
 ---
