@@ -81,17 +81,3 @@ pip install -r requirements.txt
 > If you use QeRL in your research or projects, please cite us!
 > *(Add BibTeX or DOI when available)*
 
----
-
-```
-
----
-
-### Final Tips:
-
-- Add a license (`LICENSE`) and contributing guidelines (`CONTRIBUTING.md`) if you plan to open source this.
-- Consider linking to demo notebooks, Hugging Face models, or Colab versions if available.
-- Add badges (e.g., Python version, build status, license, etc.) at the top for a more polished look.
-
-Let me know if you’d like help generating those badges or setting up the repo structure!
-```
