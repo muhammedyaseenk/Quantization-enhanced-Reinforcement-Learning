@@ -68,7 +68,7 @@ pip install -r requirements.txt
 | **High Scalability**                  | Enables training of 32B parameter models on a single 80GB GPU, avoiding multi-GPU setups. |
 
 ## 🔗 References
-*QeRL Repository: * https://github.com/NVlabs/QeRL/tree/main
+QeRL Repository: https://github.com/NVlabs/QeRL/tree/main
 
 *NVFP4 Quantization :*   https://github.com/NVIDIA/TensorRT-LLM/issues/6835?utm_source=chatgpt.com
 
