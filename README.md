@@ -68,16 +68,3 @@ pip install -r requirements.txt
 | **High Scalability**                  | Enables training of 32B parameter models on a single 80GB GPU, avoiding multi-GPU setups. |
 
 ---
-
-## 📌 Notes
-
-* Ensure `assets/` folder is properly structured in the repo to render images.
-* For more examples, benchmarks, or research context, see the [Docs](link-to-docs-if-available) or [Paper](link-to-paper-if-applicable).
-
----
-
-## 🧠 Citation
-
-> If you use QeRL in your research or projects, please cite us!
-> *(Add BibTeX or DOI when available)*
-
